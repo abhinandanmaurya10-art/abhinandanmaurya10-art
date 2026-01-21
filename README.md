@@ -1,16 +1,58 @@
-## Hi there 👋
+## 👋 Hi, I'm Abhinandan Verma
 
-<!--
-**abhinandanmaurya10-art/abhinandanmaurya10-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎯 Building strong **programming fundamentals** and **problem-solving skills**
+- 💡 Interested in **Software Development, Web Development, and Data Analytics**
+- 🧠 Focused on writing clean, logical, and efficient code
+
+---
+
+### 🛠️ Skills & Learning
+- **Programming Languages:**  
+  - ✅ **C** (Core Concepts, Pointers, Structures)  
+  - **C++** (Basics, OOP Concepts)  
+  - **Java** (Core Java Basics)  
+  - **Python** (Fundamentals)
+
+- **Web Development:**  
+  - **HTML5**  
+  - **CSS3**  
+  - **JavaScript** (Basics)  
+  - **React.js** (Learning – Components, JSX, Props, State)  
+  - Responsive Web Design (Basics)
+
+- **Database:**  
+  - **SQL** (CRUD, Joins, Basic Queries)
+
+- **Computer Science Concepts:**  
+  - Data Structures (Basics)  
+  - Algorithms (Fundamentals)  
+  - OOP Concepts (Intro level)
+
+- **Tools & Platforms:**  
+  - Git & GitHub  
+  - VS Code  
+
+---
+
+### 📈 Goals
+- ✔️ Become a **Full-Stack Developer**  
+- ✔️ Build real-world web applications  
+- ✔️ Improve DSA and coding logic  
+- ✔️ Prepare for software developer roles  
+
+---
+
+### 🤝 Let's Connect
+- 💬 Ask me about **C programming, React basics, or web development**
+- 📫 Reach me via **GitHub Discussions / Issues**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+
