@@ -24,36 +24,43 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+<table align="center">
+  <tr>
+    <td align="left" width="220"><strong>💻 Programming Languages</strong></td>
+    <td align="right">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+    </td>
+  </tr>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" />
-</div>
+  <tr>
+    <td align="left"><strong>🌐 Web Development</strong></td>
+    <td align="right">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+    </td>
+  </tr>
 
-<div align="center">
+  <tr>
+    <td align="left"><strong>🗄️ Database</strong></td>
+    <td align="right">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+    </td>
+  </tr>
 
-### 💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="55" />
-
-<br/><br/>
-
-### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="55" />
-
-<br/><br/>
-
-### 🗄️ Database  
-<img src="https://skillicons.dev/icons?i=mysql" height="55" />
-
-<br/><br/>
-
-### 🧰 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" />
-
-</div>
+  <tr>
+    <td align="left"><strong>🧰 Tools & Platforms</strong></td>
+    <td align="right">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+    </td>
+  </tr>
+</table>
 
 
 ### 📈 Goals
