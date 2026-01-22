@@ -47,12 +47,5 @@
 - ✔️ Prepare for software developer roles  
 
 ---
-
-### 🤝 Let's Connect
-- 💬 Ask me about **C programming, React basics, or web development**
-- 📫 Reach me via **GitHub Discussions / Issues**
-
----
-
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
 
