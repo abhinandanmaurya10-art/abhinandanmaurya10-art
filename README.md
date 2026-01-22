@@ -26,7 +26,10 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,sql,git" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" />
 </div>
 
 <div align="center">
@@ -63,14 +66,18 @@
 
 ### 🤝 Connect With Me
 
+### 🤝 Connect With Me
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhinandan-verma-21a2792bb/?trk=opento_sprofile_details">
+  <a href="https://www.linkedin.com/in/abhinandan-verma-21a2792bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/https://www.instagram.com/abhinandanmaurya10/?__pwa=1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+
+  <a href="https://www.instagram.com/abhinandanmaurya10/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </div>
+
 
 ---
 
