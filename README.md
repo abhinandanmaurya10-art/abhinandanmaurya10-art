@@ -2,8 +2,9 @@
 <h3 align="center"> Welcome to my profile </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Learning+•+Building+•+Improving;Code+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Learning+-+Building+-+Improving;Code+Every+Day" />
 </div>
+
 
 ---
 
@@ -63,8 +64,6 @@
 * ✔️ Prepare for **software developer roles**
 
 ---
-
-### 🤝 Connect With Me
 
 ### 🤝 Connect With Me
 
