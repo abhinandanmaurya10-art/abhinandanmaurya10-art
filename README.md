@@ -64,10 +64,10 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhinandan-verma-21a2792bb/?trk=opento_sprofile_details">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+  <a href="https://twitter.com/https://www.instagram.com/abhinandanmaurya10/?__pwa=1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </div>
@@ -80,12 +80,6 @@
   <img src="https://streak-stats.demolab.com?user=AbhinandanVerma&theme=dracula" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=AbhinandanVerma&theme=dracula&row=1&column=6" height="150" />
 </div>
-
----
-
-### 🐍 Contribution Snake Animation
-
-![Snake animation](https://github.com/AbhinandanVerma/AbhinandanVerma/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
