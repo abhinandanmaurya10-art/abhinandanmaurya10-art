@@ -13,12 +13,12 @@
 
 ---
 
-## 👨‍💻 About Me
-🎓 MCA Student from India  
-💻 Passionate about **Software & Web Development**  
-🧠 Focused on **clean logic, fundamentals & consistency**  
-🔥 Believe in *learning by building projects*
-
+## 🎯 Goals
+✔️ Become a **Full-Stack Developer**  
+✔️ Build **real-world projects** using modern technologies  
+✔️ Aspiring in **AI/ML to solve real-world problems**  
+✔️ Strengthen **DSA, logic, and analytical thinking**  
+✔️ Prepare for **software and data-driven roles**
 ---
 
 ## 🛠️ Tech Stack
