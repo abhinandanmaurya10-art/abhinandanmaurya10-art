@@ -75,6 +75,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30" />
 </div>
 
+## 🟡 Pacman Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AbhinandanVerma/AbhinandanVerma/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AbhinandanVerma/AbhinandanVerma/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/AbhinandanVerma/AbhinandanVerma/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
 
 --- 
 📌 *Learning. Building. Improving. One commit at a time.*
