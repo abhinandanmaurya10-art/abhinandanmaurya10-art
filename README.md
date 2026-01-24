@@ -50,15 +50,6 @@
 </div>
 
 ---
-
-## 🎯 Goals
-✔️ Become a Full-Stack Developer  
-✔️ Build real-world projects  
-✔️ Strengthen DSA & logic  
-✔️ Crack software developer roles  
-
----
-
 ## 🤝 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/abhinandan-verma-21a2792bb/">
