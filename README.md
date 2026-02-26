@@ -14,12 +14,12 @@
 ---
 
 ## 🎯 Goals
-✔️ Become a **Full-Stack Developer**  
-✔️ Build **real-world projects** using modern technologies  
-✔️ Aspiring in **AI/ML to solve real-world problems**  
-✔️ Strengthen **DSA, logic, and analytical thinking**  
-✔️ Prepare for **software and data-driven roles**
----
+✔️ Become a Full-Stack Developer
+✔️ Build real-world projects using modern technologies
+✔️ Develop strong expertise in Data Science for data-driven decision making
+✔️ Aspire in AI/ML to solve real-world problems
+✔️ Strengthen DSA, logic, and analytical thinking
+✔️ Prepare for software engineering and data-driven roles
 
 ## 🛠️ Tech Stack
 
