@@ -51,7 +51,7 @@
 
 <ol>
 <h2>🌱 Currently Learning</h2>
-<ol>Advanced Data Science Techniques</ol>
+<li>Advanced Data Science Techniques</li>
 <ol>Machine Learning & Deep Learning Models</ol>
 <ol>Data Visualization & Dashboards</ol>
 </ol>
