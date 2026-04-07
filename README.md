@@ -49,12 +49,12 @@
 
 </div>
 
-<ol>
+<ul>
 <h2>🌱 Currently Learning</h2>
 <li>Advanced Data Science Techniques</li>
-<ol>Machine Learning & Deep Learning Models</ol>
-<ol>Data Visualization & Dashboards</ol>
-</ol>
+<li>Machine Learning & Deep Learning Models</li>
+<li>Data Visualization & Dashboards</li>
+</ul>
 
 
 ---
