@@ -47,7 +47,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="./github-stats.svg" width="100%" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinandanmaurya10-art&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanmaurya10-art&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=abhinandanmaurya10-art&theme=tokyonight&hide_border=true"/>
+
 </div>
 ---
 
