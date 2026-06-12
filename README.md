@@ -15,7 +15,7 @@
 ✔️ Aspire in AI/ML to solve real-world problems<br>
 🛠️ Tech Stack
 <div align="center">
-💻 Programming
+💻 Programming<br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
