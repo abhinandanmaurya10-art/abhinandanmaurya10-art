@@ -49,12 +49,11 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="./github-stats.svg" width="100%" alt="GitHub Stats"/>
 </div>
-
-<img src="./github-stats.svg" width="100%" alt="GitHub Stats"/>
-
 ---
 
 ## 🤝 Connect With Me
