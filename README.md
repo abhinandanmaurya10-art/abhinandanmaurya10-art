@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanmaurya10-art&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanmaurya10-art&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" alt="Top Languages"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@
 </div>
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
 </div>
 ## 🟡 Contribution Graph
 <p align="center">
