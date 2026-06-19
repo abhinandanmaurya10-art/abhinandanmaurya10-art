@@ -1,3 +1,7 @@
+### 💬 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abhinandanmaurya10-art&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)<br>
+
 <h1 align="center">Hey 👋 I am Abhinandan Verma</h1>
 <h3 align="center">MCA Student | Aspiring Software Developer 🚀</h3>
 <div align="center">
