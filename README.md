@@ -16,6 +16,7 @@
 🎯 Goals<br>
 
 ✔️ Become a Full-Stack Developer<br>
+✔️ Practice Data Structures & Algorithms (DSA) consistently<br>
 ✔️ Build real-world projects using modern technologies<br>
 ✔️ Develop strong expertise in Data Science for data-driven decision making<br>
 ✔️ Aspire in AI/ML to solve real-world problems<br>
