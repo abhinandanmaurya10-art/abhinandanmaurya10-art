@@ -1,6 +1,6 @@
 ### 💬 Profile Views
 
- ![Profile Views](https://komarev.com/ghpvc/?username=abhinandanmaurya10-art&color=00D9FF&style=flat&label=Views)<br> 
+ [Profile Views](https://komarev.com/ghpvc/?username=abhinandanmaurya10-art&color=00D9FF&style=flat&label=Views)<br> 
 
 
 <h1 align="center">Hey 👋 I am Abhinandan Verma</h1>
@@ -97,4 +97,4 @@
   </picture>
 </p>
 --- 
-📌 *Learning. Building. Improving. One commit at a time.*
+📌 *Learning. Building. Improving. One commit at a time.* 
